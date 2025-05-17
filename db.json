@@ -1,0 +1,96 @@
+
+{
+  "categoria": [
+    {
+      "id": 1747501855635,
+      "nome": "Alimento",
+      "descricao": "5KG ARROZ",
+      "data": "2025-05-07",
+      "vinculada": true
+    },
+    {
+      "id": 1747501864530,
+      "nome": "Alimento",
+      "descricao": "ARROZ",
+      "data": "2025-05-08",
+      "vinculada": true
+    },
+    {
+      "id": 1747501922281,
+      "nome": "Eletrônicos",
+      "descricao": "6CX SAMSUNG",
+      "data": "2025-04-28",
+      "vinculada": false
+    },
+    {
+      "id": 1747502128114,
+      "nome": "Eletrônicos",
+      "descricao": "6CX SAMSUNG",
+      "data": "2025-04-28",
+      "vinculada": true
+    },
+    {
+      "id": 1747502134314,
+      "nome": "Alimento",
+      "descricao": "ARROZ",
+      "data": "2025-05-08",
+      "vinculada": false
+    },
+    {
+      "id": 1747502137546,
+      "nome": "Eletrônicos",
+      "descricao": "6CX SAMSUNG",
+      "data": "2025-04-28",
+      "vinculada": true
+    },
+    {
+      "id": 1747502148409,
+      "nome": "Eletrônicos",
+      "descricao": "6CX SAMSUNG",
+      "data": "2025-04-28",
+      "vinculada": false
+    },
+    {
+      "id": 1747502303469,
+      "nome": "Limpeza",
+      "descricao": "detergente",
+      "data": "2025-05-26",
+      "vinculada": true
+    },
+    {
+      "id": 1747502349579,
+      "nome": "Eletrônicos",
+      "descricao": "2CX SAMSUNG",
+      "data": "2025-04-28",
+      "vinculada": false
+    },
+    {
+      "id": 1747502362515,
+      "nome": "Eletrônicos",
+      "descricao": "3\nCX SAMSUNG",
+      "data": "2025-04-28",
+      "vinculada": false
+    },
+    {
+      "id": 1747502393914,
+      "nome": "Eletrônicos",
+      "descricao": "2 cx lg",
+      "data": "2025-05-01",
+      "vinculada": false
+    },
+    {
+      "id": 1747502605923,
+      "nome": "Eletrônicos",
+      "descricao": "hjfjf",
+      "data": "2025-04-02",
+      "vinculada": false
+    },
+    {
+      "id": 1747503303005,
+      "nome": "Alimento",
+      "descricao": "2 kg feijão",
+      "data": "2025-05-26",
+      "vinculada": true
+    }
+  ]
+}
